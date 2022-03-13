@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.flex-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+content-box {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    width: 200px;
+}
+
